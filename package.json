@@ -39,6 +39,7 @@
   "resolutions": {
     "**/archiver-utils/**/glob": "^11.1.0",
     "**/rimraf/**/glob": "^11.1.0",
-    "**/@ardatan/relay-compiler/**/glob": "^11.1.0"
+    "**/@ardatan/relay-compiler/**/glob": "^11.1.0",
+    "**/@aws-sdk/types": "^3.734.0"    
   }
 }
